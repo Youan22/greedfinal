@@ -1,0 +1,29 @@
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/unit04-greed
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/unit04-greed.deps.json
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/unit04-greed.runtimeconfig.json
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/unit04-greed.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/unit04-greed.pdb
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/Raylib-cs.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.csproj.AssemblyReference.cache
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.AssemblyInfoInputs.cache
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.AssemblyInfo.cs
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.csproj.CoreCompileInputs.cache
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.csproj.CopyComplete
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/refint/unit04-greed.dll
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.pdb
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.genruntimeconfig.cache
+/Users/youan/Desktop/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/ref/unit04-greed.dll
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.csproj.AssemblyReference.cache
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.AssemblyInfoInputs.cache
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.AssemblyInfo.cs
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.csproj.CoreCompileInputs.cache
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.dll
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/refint/unit04-greed.dll
+/Users/youan/Desktop/Spring 2022/ProjectC#/CSE210-Team-project/unit04-greed/obj/Debug/net6.0/unit04-greed.pdb
